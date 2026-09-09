@@ -1,4 +1,4 @@
-const API_URL = "https://crud-test-hqdn.onrender.com";
+const API_URL = "https://crud-test-hqdn.onrender.com/users";
 
 const userForm = document.getElementById("userForm");
 const nameInput = document.getElementById("name");
